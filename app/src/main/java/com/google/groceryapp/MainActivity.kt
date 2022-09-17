@@ -74,13 +74,11 @@ class MainActivity : AppCompatActivity() ,GroceryRVAdapter.GroceryItemClickInter
             if ((itemName.isNotEmpty()) && (itemPrice.isNotEmpty()) && (itemQuantity.isNotEmpty())) {
                 val items = GroceryItems(itemName, qty, pr)
                 groceryViewModel.insert(items)
-                Toast.makeText(applicationContext, "Item inserted.. ", Toast.LENGTH_LONG).show()
+                Toast.makeText(applicationContext, "Item inserted", Toast.LENGTH_LONG).show()
                 groceryRVAdapter.notifyDataSetChanged()
                 gdialog.dismiss()
-            } else {
-                Toast.makeText(applicationContext, "please enter all data", Toast.LENGTH_LONG).show()
-                gdialog.dismiss()
-
+            }else {
+                Toast.makeText(applicationContext, "Please enter all data", Toast.LENGTH_LONG).show()
             }
 
         }
@@ -92,6 +90,6 @@ gdialog.show()
     override fun onItemClick(groceryItems: GroceryItems) {
        groceryViewModel.delete(groceryItems)
         groceryRVAdapter.notifyDataSetChanged()
-        Toast.makeText(applicationContext,"Item Deleted.. ",Toast.LENGTH_LONG).show()
+        Toast.makeText(applicationContext,"Item Deleted",Toast.LENGTH_LONG).show()
     }
 }
