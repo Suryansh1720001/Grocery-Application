@@ -1,11 +1,15 @@
 # SPSGP-89389-Virtual-Internship---Android-Application-Development-Using-Kotlin
 # Project : Grocery App - [DOWNLOAD APP](https://www.mediafire.com/file/ru30iujlwyper9j/Grocery_Application.apk/file)
-<img src= "https://user-images.githubusercontent.com/85965606/190914223-63fda839-130b-431c-9795-7435411e2c8d.jpg" width="680" height="500">
+
+#### As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
+
+
+<img src= "https://user-images.githubusercontent.com/85965606/192114410-a8d8acc7-ad2f-4695-bbaa-9c5d32885aa9.jpg" width="490" height="500">
 
 
 
 This is the Grocery Application that runs on android mobile phones. This is a very useful application that helps you in adding grocery items. With the help of this application, you can also see the cost.
-- Thank you google for giving me the opportunity in this Externship.
+#### - Thank you google for giving me the opportunity in this Externship.
 
 
 ## Technology Used
@@ -29,5 +33,5 @@ This is the Grocery Application that runs on android mobile phones. This is a ve
 
 - <a href="https://www.flaticon.com/free-icons/shop" title="shop icons">Shop icons created by srip - Flaticon</a>
 
-- Photo by <a href="https://unsplash.com/@mrsmaria?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Maria Lin Kim</a> on <a href="https://unsplash.com/s/photos/grocery-bag?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+- Image by <a href="https://pixabay.com/users/prawny-162579/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1105587">Prawny</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1105587">Pixabay</a>
   
