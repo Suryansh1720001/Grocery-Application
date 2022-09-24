@@ -1,5 +1,5 @@
 # SPSGP-89389-Virtual-Internship---Android-Application-Development-Using-Kotlin
-# Project : Grocery App
+# Project : Grocery App - [DOWNLOAD APP](https://www.mediafire.com/file/ru30iujlwyper9j/Grocery_Application.apk/file)
 <img src= "https://user-images.githubusercontent.com/85965606/190914223-63fda839-130b-431c-9795-7435411e2c8d.jpg" width="680" height="500">
 
 
@@ -19,6 +19,11 @@ This is the Grocery Application that runs on android mobile phones. This is a ve
 .<img src= "https://user-images.githubusercontent.com/85965606/190863934-dd44f443-b848-43e0-b09b-3e81b3b6308c.jpeg" width="250" height="505">
 .<img src= "https://user-images.githubusercontent.com/85965606/190863939-cb1dc95b-06b3-4b74-ba12-afef5662543e.jpeg" width="250" height="505">
 
+## Installation
+... (GooglePlay Store link available soon) ...
+
+- Use this link to download the app  
+- [DOWNLOAD APP](https://www.mediafire.com/file/ru30iujlwyper9j/Grocery_Application.apk/file)
 
 ## Attributes
 
