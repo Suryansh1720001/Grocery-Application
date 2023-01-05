@@ -1,7 +1,7 @@
-# SPSGP-89389-Virtual-Internship---Android-Application-Development-Using-Kotlin
 # Project : Grocery App - [DOWNLOAD APP](https://www.mediafire.com/file/ru30iujlwyper9j/Grocery_Application.apk/file)
 
 #### As we can't remember everything, users frequently forget to buy the things they want to buy. However, with the assistance of this app, you can make a list of the groceries you intend to buy so that you don't forget anything.
+This is the project made under the Google Supported Android Virtual Intern @SmartBridge.
 
 
 <img src= "https://user-images.githubusercontent.com/85965606/192114410-a8d8acc7-ad2f-4695-bbaa-9c5d32885aa9.jpg" width="490" height="500">
