@@ -14,7 +14,7 @@ This is the Grocery Application that runs on android mobile phones. This is a ve
 
 ## Technology Used
 ```bash
-- Android 
+- Android Studio
 - Kotlin
 - Room database
 ```
